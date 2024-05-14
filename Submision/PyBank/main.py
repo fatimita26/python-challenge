@@ -2,7 +2,7 @@
 import csv
 
 # Set path for file
-csvpath = "Resources/budget_data.csv"
+csvpath = "PyBank/Resources/budget_data.csv"
 
 # Open the CSV using the UTF-8 encoding
 with open(csvpath, encoding='UTF-8') as csvfile:
